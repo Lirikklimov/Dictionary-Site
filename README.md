@@ -1,2 +1,2 @@
 # Dictionary-Site
-English explanatory dictionary
+Brief English explanatory dictionary
